@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2>Ezequiel Santos</h2>
   <ul>
-     <li>🚀 Técnico em informática e sempre estudando, tenho grande interesse na área de <b>front-end</b>.</li>
+     <li>🚀 Técnico em informática e sempre estudando, atualmente estou estagiando como desenvolvedor <b>front-end</b>.</li>
      <li>🔗 Atualmente estudando Java Script e React.</li>
      <li>⚡ Tenho conhecimento em (HTML, CSS, JS, MySql) e o básico em (JAVA, C, PHP).</li>
      <li>🌱 Aspirante a desenvolvedor full-stack.</li>
