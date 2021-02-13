@@ -1,13 +1,12 @@
-### Hi there 👋
-<h2>Ezequiel Santos</h2>
+<h2 align = center> Hi there, I'm Ezequiel Santos 👋 </h2>
   <ul>
-     <li>🚀 Técnico em informática e sempre estudando, atualmente estou estagiando como desenvolvedor <b>front-end</b>.</li>
-     <li>🔗 Atualmente estudando Java Script e React.</li>
-     <li>⚡ Tenho conhecimento em (HTML, CSS, JS, MySql) e o básico em (JAVA, C, PHP).</li>
-     <li>🌱 Aspirante a desenvolvedor full-stack.</li>
-     
-  <li><a href="https://pt-br.reactjs.org/">📫 ezequiel.mozart.2020@gmail.com</a></li>
+     <li>🚀 I'm a computer technician</li>
+     <li>🔗 I'm currently interning as a front-end developer</li>
+     <li>⚡ I'm currently studying JavaScript and React</li>
+     <li>🌱I have knowledge in HTML, CSS and MySql and the basics in Java.</li>
+     <li><a href="https://pt-br.reactjs.org/">📫 ezequiel.mozart.2020@gmail.com</a></li>
   </ul>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   
 
 
