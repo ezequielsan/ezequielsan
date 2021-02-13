@@ -6,7 +6,11 @@
      <li>🌱I have knowledge in HTML, CSS and MySql and the basics in Java.</li>
      <li><a href="https://pt-br.reactjs.org/">📫 ezequiel.mozart.2020@gmail.com</a></li>
   </ul>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+  <img align ="center" src="https://github-readme-stats.vercel.app/api?username=ezequielsan&show_icons=true&theme=tokyonight " /> 
+
+
+
   
 
 
