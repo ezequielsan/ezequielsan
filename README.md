@@ -8,7 +8,7 @@
      <li><a href="https://pt-br.reactjs.org/">:mailbox: ezequiel.mozart.2020@gmail.com</a></li>
   </ul>
   
-<p class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats" width="477"> <a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs" width="470"></a></p>
+<p class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats" width="450"> <a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs" width="450"></a></p>
 
 
 
