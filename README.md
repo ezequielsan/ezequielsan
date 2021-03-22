@@ -20,7 +20,7 @@
 </p>
 
 <p align=center>
-<a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs"> 
+<a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs"> <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats">
 </a>
 </p>
