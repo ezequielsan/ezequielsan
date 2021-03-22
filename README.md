@@ -1,6 +1,7 @@
 <h2 align = center> Hi there, I'm Ezequiel Santos 👋 </h2>
+<img align="right" height="180"src="https://user-images.githubusercontent.com/77730400/112043548-8e297880-8b27-11eb-9e45-7433d36ca9f6.gif">
   <ul>
-     <li>:star: I'm a computer technician.</li>
+     <li>:star: I'm a computer technician.</li><br/>
      <li>:zap: I'm currently interning as a front-end developer.</li>
      <li>:blue_heart: I'm currently studying JavaScript and React.</li>
      <li>:computer: I have knowledge in HTML, CSS and MySql and the basics in Java.</li>
@@ -8,7 +9,13 @@
      <li><a href="https://pt-br.reactjs.org/">:mailbox: ezequiel.mozart.2020@gmail.com</a></li>
   </ul>
   
-<p class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats" width="410"> <a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs" width="400"></a></p>
+  
+  <br/><br/>
+<p class="has-line-data" data-line-start="0" data-line-end="1">
+<img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats" height="202"> 
+<a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs" height="202" >
+</a>
+</p>
 
 
 
