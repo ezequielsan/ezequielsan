@@ -24,7 +24,7 @@
 </div>
 
 <h2 align=center>Interesse</h2>
-<div align=center>
+<div align=center width=100%>
   
   ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
