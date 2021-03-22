@@ -6,7 +6,7 @@
 <div align=center>
   
   
- **I'm a computer technician.**
+ **I'm a computer technician.** <br>
  **I'm currently interning as a front-end developer.**
  
 </div>
