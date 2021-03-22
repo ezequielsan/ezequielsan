@@ -6,8 +6,8 @@
 <div align=center>
   
   
- **Sou Técnico em Informática** <br>
- **Atualmente estou estagiando como desenvolvedor front-end**
+ **Sou Técnico em Informática :computer:** <br>
+ **Atualmente estou estagiando como desenvolvedor front-end :computer:**
  
 </div>
 
