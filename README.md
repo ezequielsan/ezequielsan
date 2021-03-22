@@ -2,18 +2,14 @@
 <p  align = center>
 <img src="https://user-images.githubusercontent.com/77730400/112048089-d0a18400-8b2c-11eb-88e4-58ae7f8d8777.gif">
 </p>
-
-  <p align =center>:star: I'm a computer technician.</p>
-  <p align =center>:zap: I'm currently interning as a front-end developer.</p>
-
+<p align =center> I'm a computer technician.</p>
+<p align =center> I'm currently interning as a front-end developer.</p>
 
 
 
-
-
-<p class="has-line-data" data-line-start="0" data-line-end="1">
-<img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats" height="200" > 
-<a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs" height="200">
+<p align=center>
+<a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs"> <br/> <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats">
 </a>
 </p>
 
