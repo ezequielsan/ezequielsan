@@ -19,14 +19,16 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
 </p>
 
+<h2 align=center>Contato</h2>
+
 <p align=center>
 <a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs"> <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats">
 </a>
 </p>
-<h2>Contato</h2>
 
-<a href="https://github.com/ezequielsan/"></a>
+
+<!--<a href="https://github.com/ezequielsan/"></a>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&align=center&logo=Github&logoColor=white&link=github.com/ezequielsan)](https://github.com/ezequielsan/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&align=center&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+558592670532=Hello!)](https://api.whatsapp.com/send?phone=+558592670532&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&align=center&logo=Gmail&logoColor=white&link=mailto:ezequiel.mozart.2020@gmail.com)](mailto:ezequiel.mozart.2020@gmail.com)
