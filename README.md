@@ -1,5 +1,7 @@
 <h2 align = center> Hi there, I'm Ezequiel Santos 👋 </h2>
-<img height="180" align="right" src="https://user-images.githubusercontent.com/77730400/112043548-8e297880-8b27-11eb-9e45-7433d36ca9f6.gif">
+<img align="right" src="![gif](https://user-images.githubusercontent.com/77730400/112048089-d0a18400-8b2c-11eb-88e4-58ae7f8d8777.gif)
+">
+
 
   <ul align="left">
      <li>:star: I'm a computer technician.</li>
@@ -9,7 +11,7 @@
      <li>:musical_keyboard: And finally, I love classical music.</li>
      <li><a href="https://pt-br.reactjs.org/">:mailbox: ezequiel.mozart.2020@gmail.com</a></li>
   </ul>
-  >
+
 <p class="has-line-data" data-line-start="0" data-line-end="1">
 <img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats" height="200" > 
 <a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs" height="200">
