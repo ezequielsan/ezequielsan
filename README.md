@@ -1,16 +1,15 @@
 <h2 align = center> Hi there, I'm Ezequiel Santos 👋 </h2>
-<img align="right" src="![gif](https://user-images.githubusercontent.com/77730400/112048089-d0a18400-8b2c-11eb-88e4-58ae7f8d8777.gif)
-">
+<p  align = center>
+<img src="https://user-images.githubusercontent.com/77730400/112048089-d0a18400-8b2c-11eb-88e4-58ae7f8d8777.gif">
+</p>
+
+  <p align =center>:star: I'm a computer technician.</p>
+  <p align =center>:zap: I'm currently interning as a front-end developer.</p>
 
 
-  <ul align="left">
-     <li>:star: I'm a computer technician.</li>
-     <li>:zap: I'm currently interning as a front-end developer.</li>
-     <li>:blue_heart: I'm currently studying JavaScript and React.</li>
-     <li>:computer: I have knowledge in HTML, CSS and MySql and the basics in Java.</li>
-     <li>:musical_keyboard: And finally, I love classical music.</li>
-     <li><a href="https://pt-br.reactjs.org/">:mailbox: ezequiel.mozart.2020@gmail.com</a></li>
-  </ul>
+
+
+
 
 <p class="has-line-data" data-line-start="0" data-line-end="1">
 <img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats" height="200" > 
