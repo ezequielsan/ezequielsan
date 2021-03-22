@@ -16,12 +16,16 @@
 </a>
 </p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/ezequielsan)](https://github.com/ezequielsan/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+558592670532=Hello!)](https://api.whatsapp.com/send?phone=+558592670532&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequiel.mozart.2020@gmail.com)](mailto:ezequiel.mozart.2020@gmail.com)
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&align=center&logo=Github&logoColor=white&link=github.com/ezequielsan)](https://github.com/ezequielsan/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&align=center&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+558592670532=Hello!)](https://api.whatsapp.com/send?phone=+558592670532&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&align=center&logo=Gmail&logoColor=white&link=mailto:ezequiel.mozart.2020@gmail.com)](mailto:ezequiel.mozart.2020@gmail.com)
 
 
-  
+
+
+
+
 
 
 
