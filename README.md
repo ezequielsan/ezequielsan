@@ -1,7 +1,10 @@
 <h1 align = center> Hi there, I'm Ezequiel Santos 👋 </h1>
 <div  align = center>
 <img src="https://user-images.githubusercontent.com/77730400/112048089-d0a18400-8b2c-11eb-88e4-58ae7f8d8777.gif"><br/>
-   **I'm a computer technician.**<br/>
+</div>
+
+<div align=center>
+ **I'm a computer technician.**
  **I'm currently interning as a front-end developer.**
 </div>
 
