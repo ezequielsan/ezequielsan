@@ -7,7 +7,7 @@
   
   
  **Sou Técnico em Informática :computer:** <br>
- **Atualmente estou estagiando como desenvolvedor front-end :computer:**
+ **Atualmente estou estagiando como desenvolvedor front-end :man_technologist:**
  
 </div>
 
