@@ -4,11 +4,11 @@
 </div>
 
 <div align=center>
-  **Estagiando como desenvolvedor frontend :man_technologist:**
   
-  **Cursando Técnico em Informática :man_technologist:**
+  
  **I'm a computer technician.**
  **I'm currently interning as a front-end developer.**
+ 
 </div>
 
 
