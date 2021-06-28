@@ -7,7 +7,7 @@
   
   
  **Sou Técnico em Informática :computer:** <br>
- **Atualmente fazendo faculdade de Engenhaaria de Software  :man_technologist:**
+ **Atualmente cursando Engenharia de Software :man_technologist:**
  
 </div>
 
