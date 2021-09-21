@@ -1,64 +1,30 @@
-<h1 align = center> Eai pessoal, Eu me chamo Ezequiel Santos 👋 </h1>
-<div  align = center>
-<img src="https://user-images.githubusercontent.com/77730400/112048089-d0a18400-8b2c-11eb-88e4-58ae7f8d8777.gif"><br/>
-</div>
+# Hello world, I'm Ezequiel! <img src="https://i.imgur.com/u8HivgI.gif" width="25px">
 
-<div align=center>
-  
-  
- **Sou Técnico em Informática :computer:** <br>
- **Atualmente cursando Engenharia de Software :man_technologist:**
+_A little about myself_ :smile:
  
-</div>
+I graduated in Software Engineering from the Federal University of Ceará (UFC), being a beginner in the field of computing. I intend to delve into various areas of computing, from web development to algorithms and computational mathematics. I have great affinity with mathematics and intend, during my graduation, to specialize in computational mathematics and other related areas.
+ 
+---
+ 
+ ### Languages and tools
 
-
-<h2 align=center>Background</h2>
-
-<div align=center>
-  
- [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-  [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-  [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  
-
-</div>
-
-<h2 align=center>Estudando</h2>
-<div align=center width=100%>
-  
-  ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-  
-</div>
-
-<h2 align=center>Interesse</h2>
-<div align=center width=100%>
-  
-  ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  
-</div>
-
-<h2 align=center>Contato</h2>
-<div align=center>
-  
-  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezequielsan)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequiel.mozart.2020@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ezequielmelo.dev/)
-  
-</div>
-
-
-<div align=center>
-<a href="https://github.com/ezequielsan/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielsan&amp;layout=compact" alt="Top Langs"> <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=ezequielsan&amp;show_icons=true&amp;theme=tokyonight" alt="Ezequiel's GitHub stats">
-</a>
-</div>
-
-<div align="center">
-  
-
-
-
+ ![Badge HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+ ![Badge CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+ 
+### Currently studying
+ ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+ ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+### Where to find me
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Ezequiel%20Santos)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Ezequiel-san)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezequielmelo.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequiel.mozart.2020@gmail.com)
 
 
 
