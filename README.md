@@ -1,8 +1,8 @@
 # Hello world, I'm Ezequiel! <img src="https://i.imgur.com/u8HivgI.gif" width="25px">
 
 _A little about myself_ :smile:
- 
-I graduated in Software Engineering from the Federal University of Ceará (UFC), being a beginner in the field of computing. I intend to delve into various areas of computing, from web development to algorithms and computational mathematics. I have great affinity with mathematics and intend, during my graduation, to specialize in computational mathematics and other related areas.
+
+I am a computer technician and I am currently graduating in Software Engineering at the Federal University of Ceará (UFC), I am a beginner in the field of computing and I intend to deepen my knowledge in various areas of computing, from web development to algorithms and computational mathematics. I have great affinity with mathematics and intend, during my graduation, to specialize in computational mathematics and other related areas.
  
 ---
  
