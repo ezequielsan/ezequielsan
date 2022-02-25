@@ -2,7 +2,7 @@
 
 _A little about myself_ :smile:
 
-I am a computer technician and I am currently graduating in Software Engineering at the Federal University of Ceará (UFC), I am a beginner in the field of computing and I intend to deepen my knowledge in various areas of computing, from web development to algorithms and computational mathematics. I have great affinity with mathematics and intend, during my graduation, to specialize in computational mathematics and other related areas.
+I am a computer technician and currently doing my bachelor's degree in Computer Science at the Federal University of Ceará (UFC), I am a beginner in the area of computing and intend to deepen my knowledge in various areas of computing, from web development to computer theory. I have great affinity with mathematics and intend, during my graduation, to specialize in mathematics for computing and related areas.
  
 ---
  
