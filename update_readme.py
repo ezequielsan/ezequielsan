@@ -63,6 +63,7 @@ LANG_BADGES = {
     "Terraform": "![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)",
     "Jenkins": "![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)",
     "Travis CI": "![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)",
+    "C#": "![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)"
 }
  
 
