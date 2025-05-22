@@ -24,6 +24,7 @@ jobs:
       - name: Run script
         env:
           GITHUB_USERNAME: ${{ secrets.MY_GITHUB_USERNAME }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: python update_readme.py  # Substitua pelo nome real do seu script Python
 
       - name: Commit and push changes
